@@ -195,3 +195,8 @@ Aplikacja została zrealizowana zgodnie z wymaganiami zadania:
 - ✅ Zawiera metadata zgodne z OCI
 
 Końcowy rozmiar obrazu wyniósł **4.31MB**, co jest bardzo dobrym wynikiem dla aplikacji Go z pełną funkcjonalnością.
+
+
+### Linki
+
+ [ **[GitHub](https://github.com/Ocayy/PAwChO-zadanie1)** ]  |  [ **[DockerHub](https://hub.docker.com/repository/docker/jaco13/politechnika-lubelska/tags/zadanie1/sha256-ba82354d2c8c3eaf0e6998ca24fe926b88a48930579b0a36880cebf0349dac2e)** ]
